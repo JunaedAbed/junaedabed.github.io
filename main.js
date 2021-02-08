@@ -17,15 +17,15 @@ for(var i = 0; themeDots.length > i; i++){
 
 function setTheme(mode) {
     if (mode == 'green') {
-        document.getElementById('theme-style').href="default.css";
+        document.getElementById('theme-style').href="css/default.css";
     }
     
     if (mode == 'blue') {
-        document.getElementById('theme-style').href="blue.css";
+        document.getElementById('theme-style').href="css/blue.css";
     }
     
     if (mode == 'black') {
-        document.getElementById('theme-style').href="black.css";
+        document.getElementById('theme-style').href="css/black.css";
     }
     
     localStorage.setItem('theme', mode);
