@@ -1,26 +1,24 @@
-:root{
-    --mainColor: #3b3b3b;
-    --secondaryColor: #121212;
-    
-    --borderColor: #696969;
-    --borderShadow: 28px 28px 55px #272727, 
-             -28px -28px 55px #4f4f4f;
-    --secondaryShadow:  13px 13px 26px #0a0a0a, 
-             -13px -13px 26px #1a1a1a; 
-    --profilePicShadow: 12px 13px 16px -12px rgba(0, 0, 0, 0.75);
-    --previewBoxShadow: inset 5px 5px 10px #262626, 
-                inset -5px -5px 10px #505050;          
-             
-    --inputField: inset 8px 8px 24px #0b0b0b, 
-            inset -8px -8px 24px #191919;        
-    
-    --mainText: rgb(194, 194, 194);
-    --secondaryText: #b9b9b9;
-    
-    --themeDotBorder: #a1a1a1;
-    
-    --previewBg: #4b4b4b;
-    
-    --buttonColor: #707070;
-    
+:root {
+  --mainColor: #3b3b3b;
+  --secondaryColor: #121212;
+
+  --borderColor: #696969;
+  --borderShadow: 28px 28px 55px #272727, -28px -28px 55px #4f4f4f;
+  --secondaryShadow: 13px 13px 26px #0a0a0a, -13px -13px 26px #1a1a1a;
+  --profilePicShadow: 12px 13px 16px -12px rgba(0, 0, 0, 0.75);
+  --previewBoxShadow: inset 5px 5px 10px #262626, inset -5px -5px 10px #505050;
+
+  --inputField: inset 8px 8px 24px #0b0b0b, inset -8px -8px 24px #191919;
+
+  --mainText: rgb(194, 194, 194);
+  --secondaryText: #b9b9b9;
+
+  --themeDotBorder: #a1a1a1;
+
+  --previewBg: #4b4b4b;
+
+  --buttonColor: #707070;
+  --submitBtnHover: rgb(187, 153, 153);
+
+  --linkText: #8cc8d8;
 }

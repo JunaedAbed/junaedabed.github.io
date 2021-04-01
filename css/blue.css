@@ -1,26 +1,24 @@
-:root{
-    --mainColor: #93d5f0;
-    --secondaryColor: #74a7bb;
-    
-    --borderColor: #c7dae9;
-    --borderShadow: 28px 28px 55px #81bbd3, 
-             -28px -28px 55px #a5efff;
-    --secondaryShadow:  13px 13px 26px #6591a3, 
-             -13px -13px 26px #83bdd3; 
-    --profilePicShadow: 12px 13px 16px -12px rgba(24, 51, 70, 0.75);
-    --previewBoxShadow: inset 5px 5px 10px #80b9d1, 
-                inset -5px -5px 10px #a6f1ff;          
-             
-    --inputField: inset 8px 8px 24px #6a98aa, 
-            inset -8px -8px 24px #7eb6cc;        
-    
-    --mainText: rgb(65, 65, 65);
-    --secondaryText: #313131;
-    
-    --themeDotBorder: #1e3c53;
-    
-    --previewBg: #93d5f0;
-    
-    --buttonColor: #316574;
-    
+:root {
+  --mainColor: #93d5f0;
+  --secondaryColor: #74a7bb;
+
+  --borderColor: #c7dae9;
+  --borderShadow: 28px 28px 55px #81bbd3, -28px -28px 55px #a5efff;
+  --secondaryShadow: 13px 13px 26px #6591a3, -13px -13px 26px #83bdd3;
+  --profilePicShadow: 12px 13px 16px -12px rgba(24, 51, 70, 0.75);
+  --previewBoxShadow: inset 5px 5px 10px #80b9d1, inset -5px -5px 10px #a6f1ff;
+
+  --inputField: inset 8px 8px 24px #6a98aa, inset -8px -8px 24px #7eb6cc;
+
+  --mainText: rgb(65, 65, 65);
+  --secondaryText: #313131;
+
+  --themeDotBorder: #1e3c53;
+
+  --previewBg: #93d5f0;
+
+  --buttonColor: #316574;
+  --submitBtnHover: rgb(143, 221, 245);
+
+  --linkText: #03161b;
 }
